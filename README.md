@@ -43,9 +43,6 @@ node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
-
----
-
 ## How To Use 🔧
 
 From your command line, clone and run developerFolio:
@@ -178,4 +175,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+---
 
